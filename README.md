@@ -2,6 +2,16 @@
 
 A reusable image-generation skill for converting real outfit photos into minimalist fashion-editorial illustrations.
 
+## Examples / 效果示例
+
+Left: original photo · Right: generated illustration（左：原图 · 右：生成的插画）
+
+![Example 1 — halter top and wide-leg trousers](assets/example-01.jpeg)
+
+![Example 2 — belted blouse look](assets/example-02.jpg)
+
+![Example 3 — embellished gown](assets/example-03.jpg)
+
 ## Default Look
 
 - Elegant black ink lines
